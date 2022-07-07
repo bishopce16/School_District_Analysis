@@ -34,7 +34,7 @@ Below is District Summary DataFrame created after replacing the Thomas High Scho
 #
 
 * How is the school summary affected?
-    - Replacing the ninth graders’ math and reading scores had a nominal effect on Thomas High School’s performance relative to the other schools. With less than a one percent difference in the Original District Summary DataFrame and the second District Summary DataFrame created after replacing the Thomas High School 9th grader scores with NaN, Thomas High School was in the top five schools in the original analysis and remained in the top five schools. 
+    - Replacing the ninth graders’ math and reading scores had a nominal effect on Thomas High School’s performance relative to the other schools. With less than a one percent difference in the Original District Summary DataFrame and the second District Summary DataFrame created after replacing the Thomas High School 9th grader scores with NaN, Thomas High School was in the top five schools in the original analysis and remained in the top five schools. The bottom five schools was not affected by the change.
     
         Original Analysis Top Five Schools:	 
         ![Original Analysis Top Five Schools](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/original_top_schools.png)

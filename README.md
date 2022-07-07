@@ -26,21 +26,21 @@ Below is District Summary DataFrame created after replacing the Thomas High Scho
     
     Below is the Original District Summary DataFrame using the full set of student data.
 
-    ![Original District Summary DataFrame](School_District_Analysis/resources/original_district_summary_df.png)
+    ![Original District Summary DataFrame](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/original_district_summary_df.png)
     #
     Below is District Summary DataFrame created after replacing the Thomas High School ninth-grade students scores with NaN.
     #
-    ![ District Summary DataFrame](School_District_Analysis/resources/district_summary_df.png)
+    ![ District Summary DataFrame](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/district_summary_df.png)
 #
 
 * How is the school summary affected?
     - Replacing the ninth graders’ math and reading scores had a nominal effect on Thomas High School’s performance relative to the other schools. With less than a one percent difference in the Original District Summary DataFrame and the second District Summary DataFrame created after replacing the Thomas High School 9th grader scores with NaN, Thomas High School was in the top five schools in the original analysis and remained in the top five schools. 
     
         Original Analysis Top Five Schools:	 
-        ![Original Analysis Top Five Schools](School_District_Analysis/resources/original_top_schools.png)
+        ![Original Analysis Top Five Schools](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/original_top_schools.png)
 
         Second Analysis Top Five Schools:
-        ![Second Analysis Top Five Schools](School_District_Analysis/resources/top_five_schools.png)
+        ![Second Analysis Top Five Schools](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/top_five_schools.png)
 
 #
 * How does replacing the ninth-grade scores affect the following:
@@ -50,30 +50,30 @@ Below is District Summary DataFrame created after replacing the Thomas High Scho
         - The reading and math scores by grade only changed the “Scores by Grade DataFrames” by replacing the scores for Thomas High School ninth-grade students with null values instead of a grade, which show up as NaN. As shown in the following images below.
 
         Original Analysis Reading Scores by Grade:
-        ![Original Analysis Reading Scores by Grade](School_District_Analysis/resources/original_reading_scores_by_grade.png)
+        ![Original Analysis Reading Scores by Grade](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/original_reading_scores_by_grade.png)
 
         Original Analysis Math Scores by Grade:
-        ![Original Analysis Math Scores by Grade](School_District_Analysis/resources/original_math_scores_by_grade.png)
+        ![Original Analysis Math Scores by Grade](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/original_math_scores_by_grade.png)
 
         Second Analysis Reading Scores by Grade:
-        ![Second Analysis Reading Scores by Grade](School_District_Analysis/resources/reading_scores_by_grade.png)
+        ![Second Analysis Reading Scores by Grade](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/reading_scores_by_grade.png)
 
         Second Analysis Math Scores by Grade:
-        ![Second Analysis Math Scores by Grade](School_District_Analysis/resources/math_scores_by_grade.png)
+        ![Second Analysis Math Scores by Grade](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/math_scores_by_grade.png)
 
     * Scores by school spending
         - The findings indicate the increase of spending per student does not increase the average scores and passing percentages. This shows that there might be more significant aspects than funding that decide average scores and percent passing.
         
-        ![Spending Summary DataFrame](School_District_Analysis/resources/spending_summary_df.png)
+        ![Spending Summary DataFrame](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/spending_summary_df.png)
 
     * Scores by school size
         - The “small” and “medium” schools (Under 2,000 student)  have a negligible difference in performance, in average reading and math scores and percent overall passing. The “large” schools that have 2,000 student or more have the lowest average scores and passing percentage. The school sizes seem to suggest a direct impact on students’ performance in smaller learning environments in this district. 
 
-        ![Size Summary DataFrame](School_District_Analysis/resources/size_summary_df.png)
+        ![Size Summary DataFrame](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/size_summary_df.png)
 
     * Scores by school type
         - District school are outproformed by Charter schools, in reading scores, math scores and percentage overall passing. The district schools overall percentage passing is being pulled down by the percentage passing math.
-        ![Type Summary DataFrame](School_District_Analysis/resources/type_summary_df.png)
+        ![Type Summary DataFrame](https://github.com/bishopce16/School_District_Analysis/blob/main/resources/type_summary_df.png)
 
 #
 ## Summary: 
